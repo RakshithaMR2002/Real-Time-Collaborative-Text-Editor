@@ -1,0 +1,27 @@
+/* App.css */
+
+.App {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  h1 {
+    font-size: 2rem;
+  }
+  
+  select {
+    margin-bottom: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  
+  pre {
+    background-color: #f5f5f5;
+    padding: 10px;
+    border: 1px solid #ddd;
+    overflow: auto;
+  }
